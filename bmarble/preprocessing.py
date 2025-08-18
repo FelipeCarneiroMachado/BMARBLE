@@ -4,7 +4,7 @@ Laplacian of Gaussian pre-processing for color independent representation
 Created by Felipe Carneiro Machado
 06/08/2025
 """
-from tecnica.config import config_dict
+from bmarble.config import config_dict
 
 import numpy as np
 from scipy import ndimage

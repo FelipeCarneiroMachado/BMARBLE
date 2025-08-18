@@ -5,8 +5,8 @@ Created by Felipe Carneiro Machado,
 10/08/2025
 """
 import numpy as np
-from tecnica.config import config_dict
-import tecnica.utils as utils
+from bmarble.config import config_dict
+import bmarble.utils as utils
 
 
 
